@@ -1,0 +1,40 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+*.py[cod]
+migrations/
+
+# Environment
+env/
+venv/
+ENV/
+venv.bak/
+virtualenv.bak/
+
+# IDE Specific
+.idea/
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+media
